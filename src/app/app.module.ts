@@ -4,10 +4,11 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { LogoComponent } from './logo.component';
+import { LogoLeftComponent } from './logo-left.component';
 
 @NgModule({
   declarations: [
-    AppComponent, LogoComponent
+    AppComponent, LogoComponent, LogoLeftComponent
   ],
   imports: [
     BrowserModule
