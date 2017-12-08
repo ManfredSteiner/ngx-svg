@@ -34,4 +34,4 @@ Use command `git checkout <branch>` to get one of the following branches:
 [tutorial-step1-1]: https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html#namespacing-svg-elements
 [tutorial-step1-2]: https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html#using-attribute-binding-instead-of-property-binding
 [tutorial-step2]: https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html#avoiding-element-selectors-for-components
-[tutorial-step3:] https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html#css-transitions-and-animations
+[tutorial-step3]: https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html#css-transitions-and-animations
