@@ -19,4 +19,9 @@ Use command `git checkout <branch>` to get one of the following branches:
 * [master](../../blob/master/README.md)  
   + New ng project after `ng init ngx-svg`
 
+* [step1-simple-svg-component](../../blob/step1-simple-svg-component/README.md)  
+  + Angular component for SVG element with simple intercation
+  + Tutorial: Namespacing SVG Elements
+  + Tutorial: Using Attribute Binding Instead of Property Binding
+
 [tutorial]: https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html
