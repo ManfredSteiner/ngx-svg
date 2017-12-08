@@ -24,4 +24,7 @@ Use command `git checkout <branch>` to get one of the following branches:
   + Tutorial: Namespacing SVG Elements
   + Tutorial: Using Attribute Binding Instead of Property Binding
 
+* [step2-element-selector](../../blob/step2-element-selector/README.md)  
+  + Tutorial: Avoiding Element Selectors For Components
+
 [tutorial]: https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html
